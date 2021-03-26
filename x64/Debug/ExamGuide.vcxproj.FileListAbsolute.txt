@@ -1,0 +1,2 @@
+C:\Users\PC\source\repos\ExamGuide\x64\Debug\ExamGuide.exe
+C:\Users\PC\source\repos\ExamGuide\x64\Debug\ExamGuide.pdb
